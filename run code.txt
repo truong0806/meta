@@ -1,0 +1,12 @@
+- ở thư mục meta chạy npm i
+- vào src chạy npm i
+
+- tạo database player_db trong mysql
+- sửa thông tin connect db ở db.js
+
+- chạy code, mở 2 tab terminal
+run api: node server.js  =>  chạy port 3001
+run frontend: cd src => npm start chạy => port 3000
+
+
+
